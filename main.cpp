@@ -6,6 +6,7 @@ int main()
     int a=5;
     int b=5;
     int s;
+    s=a+b;
     cout<<s<<endl;
     cout << "NNNN" << endl;
     cout << "Hello" << endl;
