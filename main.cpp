@@ -4,9 +4,8 @@ using namespace std;
 int main()
 {
     int a=200;
-    longy
+    long y= (long)a;
     int s;
-    s=a+b;
     cout<<s<<endl;
     cout << "NNNN" << endl;
     cout << "Hello" << endl;
