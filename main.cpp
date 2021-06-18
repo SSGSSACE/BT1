@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int a=200;
-    long y= (long)a;
+    long y= long(a);
     int s;
     cout<<s<<endl;
     cout << "NNNN" << endl;
