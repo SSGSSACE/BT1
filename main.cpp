@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int a=200;
-    int b=5;
+    longy
     int s;
     s=a+b;
     cout<<s<<endl;
